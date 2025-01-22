@@ -4,7 +4,7 @@ import 'package:event_planning/firebase_options.dart';
 import 'package:event_planning/home_screen.dart';
 import 'package:event_planning/login/forget_password.dart';
 import 'package:event_planning/login/login.dart';
-import 'package:event_planning/login/register.dart';
+import 'package:event_planning/register/register.dart';
 import 'package:event_planning/providers/user_provider.dart';
 import 'package:event_planning/tabs/home/create_event.dart';
 import 'package:event_planning/providers/event_list_provider.dart';
